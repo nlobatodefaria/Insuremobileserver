@@ -1,0 +1,60 @@
+[
+  {
+    "password": "j",
+    "customerItem": {
+      "address": "Rua das Flores 21, Lisboa",
+      "policyNumber": 1234,
+      "dateOfBirth": "1-1-1960",
+      "fiscalNumber": 1112222333,
+      "customerName": "Joao Silva"
+    },
+    "claimList": [
+      {
+        "authorized": false,
+        "description": "Sudden fever, cough, headache, muscle pain, sore throat, and runny nose",
+        "submissionDate": "17-01-2016",
+        "claimId": 1,
+        "claimTitle": "Flu",
+        "status": "pending"
+      }
+    ],
+    "username": "j"
+  },
+  {
+    "password": "m",
+    "customerItem": {
+      "address": "Av. da Liberdade 1, Lisboa",
+      "policyNumber": 211,
+      "dateOfBirth": "1-1-1916",
+      "fiscalNumber": 202020202,
+      "customerName": "Maria Albertina"
+    },
+    "claimList": [
+      {
+        "authorized": true,
+        "description": "Back pain",
+        "submissionDate": "1-1-1996",
+        "claimId": 1,
+        "claimTitle": "Back",
+        "status": "accepted"
+      },
+      {
+        "authorized": true,
+        "description": "Stomach ache",
+        "submissionDate": "1-1-2006",
+        "claimId": 2,
+        "claimTitle": "Nausea",
+        "status": "denied"
+      },
+      {
+        "authorized": false,
+        "description": "Tooth pain",
+        "submissionDate": "1-1-2016",
+        "claimId": 3,
+        "claimTitle": "Teeth",
+        "status": "pending"
+      }
+    ],
+    "username": "m"
+  }
+]

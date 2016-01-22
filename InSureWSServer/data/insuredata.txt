@@ -1,0 +1,172 @@
+[
+  {
+    "password": "j",
+    "customerItem": {
+      "address": "Rua das Flores 21, Lisboa",
+      "policyNumber": 1234,
+      "dateOfBirth": "1-1-1960",
+      "fiscalNumber": 1112222333,
+      "customerName": "Joao Silva"
+    },
+    "claimList": [
+      {
+        "authorized": false,
+        "description": "Sudden fever, cough, headache, muscle pain, sore throat, and runny nose",
+        "submissionDate": "17-01-2016",
+        "claimId": 1,
+        "claimTitle": "Flu",
+        "status": "pending"
+      },
+      {
+        "authorized": true,
+        "description": "Died and came back to life...started to bit people....Don\u0027t Enter-Dead Inside",
+        "submissionDate": "17-01-2016",
+        "claimId": 2,
+        "claimTitle": "Zombie",
+        "status": "accepted"
+      },
+      {
+        "authorized": true,
+        "description": "Spleen punctured by an iron rod",
+        "submissionDate": "19-01-2016",
+        "claimId": 3,
+        "claimTitle": "Ruptured Spleen",
+        "status": "pending"
+      },
+      {
+        "authorized": true,
+        "description": "Cat Scratched him",
+        "submissionDate": "19-01-2016",
+        "claimId": 4,
+        "claimTitle": "VERY GRUESOME INJURY",
+        "status": "accepted"
+      },
+      {
+        "authorized": true,
+        "description": "Sneezing a lot",
+        "submissionDate": "13-01-2016",
+        "claimId": 5,
+        "claimTitle": "Cold",
+        "status": "rejected"
+      },
+      {
+        "authorized": false,
+        "description": "Almost died of boredom",
+        "submissionDate": "22-01-2016",
+        "claimId": 6,
+        "claimTitle": "Bored",
+        "status": "pending"
+      },
+      {
+        "authorized": true,
+        "description": "teste",
+        "submissionDate": "22-01-2016",
+        "claimId": 7,
+        "claimTitle": "Teste",
+        "status": "pending"
+      },
+      {
+        "authorized": true,
+        "description": "Let\u0027s try this",
+        "submissionDate": "22-01-2016",
+        "claimId": 8,
+        "claimTitle": "Teste no telemóvel ",
+        "status": "pending"
+      },
+      {
+        "authorized": false,
+        "description": "asdsa",
+        "submissionDate": "22-01-2016",
+        "claimId": 9,
+        "claimTitle": "create 2utilizadores",
+        "status": "pending"
+      },
+      {
+        "authorized": false,
+        "description": "The patient broke his arm after a fall from a ladder. \n",
+        "submissionDate": "22-01-2016",
+        "claimId": 10,
+        "claimTitle": "Broken arm",
+        "status": "pending"
+      },
+      {
+        "authorized": true,
+        "description": "Jsjhs",
+        "submissionDate": "22-01-2016",
+        "claimId": 11,
+        "claimTitle": "Hdhsd",
+        "status": "pending"
+      },
+      {
+        "authorized": true,
+        "description": "Em is ah ",
+        "submissionDate": "22-01-2016",
+        "claimId": 12,
+        "claimTitle": "X-men f",
+        "status": "pending"
+      },
+      {
+        "authorized": true,
+        "description": "Vhbdh",
+        "submissionDate": "22-01-2016",
+        "claimId": 13,
+        "claimTitle": "Ggdfj",
+        "status": "pending"
+      },
+      {
+        "authorized": true,
+        "description": "Cvh",
+        "submissionDate": "22-01-2016",
+        "claimId": 14,
+        "claimTitle": "HD ",
+        "status": "pending"
+      },
+      {
+        "authorized": false,
+        "description": "Fgh",
+        "submissionDate": "22-01-2016",
+        "claimId": 15,
+        "claimTitle": "Fhh",
+        "status": "pending"
+      }
+    ],
+    "username": "j"
+  },
+  {
+    "password": "m",
+    "customerItem": {
+      "address": "Av. da Liberdade 1, Lisboa",
+      "policyNumber": 211,
+      "dateOfBirth": "1-1-1916",
+      "fiscalNumber": 202020202,
+      "customerName": "Maria Albertina"
+    },
+    "claimList": [
+      {
+        "authorized": true,
+        "description": "Back pain",
+        "submissionDate": "1-1-1996",
+        "claimId": 1,
+        "claimTitle": "Back",
+        "status": "accepted"
+      },
+      {
+        "authorized": true,
+        "description": "Stomach ache",
+        "submissionDate": "1-1-2006",
+        "claimId": 2,
+        "claimTitle": "Nausea",
+        "status": "denied"
+      },
+      {
+        "authorized": false,
+        "description": "Tooth pain",
+        "submissionDate": "1-1-2016",
+        "claimId": 3,
+        "claimTitle": "Teeth",
+        "status": "pending"
+      }
+    ],
+    "username": "m"
+  }
+]
